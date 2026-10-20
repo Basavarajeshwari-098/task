@@ -1,0 +1,3 @@
+def task():
+    push
+task()    
