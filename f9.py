@@ -1,0 +1,1 @@
+print("i am very lucky because i have very suppotive parents and family")
