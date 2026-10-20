@@ -1,1 +1,0 @@
-print("iam alone pleace can u help me out of this situtation")
